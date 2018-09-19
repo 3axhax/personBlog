@@ -30,10 +30,15 @@ body {
 .bg-white {
     background: #fff;
 }
+
+.blue-dark {
+    color: #19293d;
+}
+
 /* colors*/
 
 .navbar-theme {
-    background: #738CAB;
+    background: #19293d;
 }
 
 .navbar-theme a {
